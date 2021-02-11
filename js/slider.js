@@ -4,6 +4,9 @@ $(document).ready(function(){
         loop:true,
         margin:20,
         responsive:{
+            200:{
+                items:1
+            },
             480:{
                 items:2
             },
